@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708161733 source:c:\users\home\documents\asdv\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<unordered_map>
+
